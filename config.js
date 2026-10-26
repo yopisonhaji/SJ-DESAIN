@@ -46,7 +46,7 @@ window.__AF_CONFIG = {
 
   /* ── 5. GOOGLE TAG, ADS & SOCIAL TRACKING ──────────────────────────── */
   // Google Analytics 4 (GA4) / Google Ads Tag (Contoh: "G-XXXXXXXXXX" atau "AW-XXXXXXXXXX")
-  googleTagId: "",
+  googleTagId: "G-31PT7P79Z1",
 
   // Google Tag Manager (Contoh: "GTM-XXXXXXX")
   gtmId: "",
