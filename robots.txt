@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Izinkan AI Bot untuk SGO (Search Generative Optimization) & AI Overviews
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://sj.satujalan.id/sitemap.xml

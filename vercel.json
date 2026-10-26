@@ -1,5 +1,4 @@
 {
-  "cleanUrls": true,
   "rewrites": [
     { "source": "/device.php", "destination": "/api/device" },
     { "source": "/auth.php", "destination": "/api/auth" },

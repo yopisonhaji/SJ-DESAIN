@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sj.satujalan.id/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sj.satujalan.id/landing/brand/logo.png</image:loc>
+      <image:title>SJ Desain - AI Instant Design Studio</image:title>
+      <image:caption>Generator Desain Iklan dan Konten Grafis Profesional Berbasis AI</image:caption>
+    </image:image>
+  </url>
+</urlset>

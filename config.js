@@ -43,4 +43,23 @@ window.__AF_CONFIG = {
 
   /* ── 4. LOGIN ────────────────────────────────────────────────────── */
   authEndpoint: "/auth.php",
+
+  /* ── 5. GOOGLE TAG, ADS & SOCIAL TRACKING ──────────────────────────── */
+  // Google Analytics 4 (GA4) / Google Ads Tag (Contoh: "G-XXXXXXXXXX" atau "AW-XXXXXXXXXX")
+  googleTagId: "",
+
+  // Google Tag Manager (Contoh: "GTM-XXXXXXX")
+  gtmId: "",
+
+  // Meta Pixel ID (Facebook & Instagram Ads)
+  metaPixelId: "3705538626213957",
+
+  // TikTok Ads Pixel ID (Contoh: "C1234567890ABCDEF")
+  tiktokPixelId: "",
+
+  /* ── 6. SEO LOKAL & GOOGLE BUSINESS PROFILE (NAP) ─────────────────── */
+  businessName:    "SJ Desain (SatuJalan)",
+  businessPhone:   "+62 812-3456-7890", // Ganti dengan nomor WhatsApp / Telepon aktif Anda
+  businessCity:    "Indonesia",
+  googleMapsUrl:   "https://maps.google.com/?q=SatuJalan+Indonesia",
 };
