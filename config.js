@@ -24,6 +24,10 @@ window.__AF_CONFIG = {
   claudeUrl:     "https://claude.ai/",
   gptUrl:        "https://chatgpt.com/g/g-6a2f357ef01c81919892e63b2c37a20e-auto-feeds-ai",
 
+  // 9 Feed Konsisten — tombol jendela Copy "Kuota ChatGPT habis? Lanjut potong di Gemini"
+  // = app Gemini Canvas Potong Feed
+  potongFeedUrl: "https://share.gemini.google/161JkHhf8k2i",
+
   /* ── 2b. SOCIAL (footer) ──────────────────────────────────────────── */
   instagramUrl:    "https://instagram.com/sjdesain_id",
   instagramHandle: "@sjdesain_id",
